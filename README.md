@@ -17,3 +17,5 @@ You can download a compiled version over WAP at http://nokia.maartje.dev/iRail.j
 ### Video
 * [Running on Nokia 3410 over dial-up](https://youtu.be/rc4FjowrZ5k)
 * [Running on Nokia 3510i over GPRS](https://youtu.be/ZqaTVNDl4Sg)
+### Running on recent devices
+* [Nokia 3310 (2017)](https://twitter.com/svandooren/status/1160994204773965824)
